@@ -80,7 +80,8 @@ After starting the container,access the application at:
 ```
 http://localhost:8501
 ```
-
+# Demo
+![demo](https://github.com/user-attachments/assets/2e01cafe-3103-49b1-9bd1-45c822443cdc)
 
 # Project Structure:
 ```

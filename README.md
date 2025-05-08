@@ -35,8 +35,7 @@ A streamlit-based chat application that allows users to interact with various AI
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd simple-ai-chat-app
+git clone https://github.com/Pruthvish-Vyas/AI-Chatbot.git
 ```
 2. Install required packages:
 

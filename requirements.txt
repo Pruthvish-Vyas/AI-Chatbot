@@ -1,0 +1,5 @@
+streamlit
+langchain
+together
+python-dotenv
+watchdog
